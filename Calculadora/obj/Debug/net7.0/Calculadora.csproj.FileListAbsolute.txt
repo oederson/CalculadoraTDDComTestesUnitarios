@@ -1,0 +1,15 @@
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/bin/Debug/net7.0/Calculadora
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/bin/Debug/net7.0/Calculadora.runtimeconfig.json
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.csproj.AssemblyReference.cache
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/Calculadora.genruntimeconfig.cache
+/home/eder/AulaBootcampDioTestesUnitarios/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
